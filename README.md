@@ -1,2 +1,2 @@
-# jenkina-node
-jenkina-node
+# jenkins-node
+jenkins-node
